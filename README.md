@@ -85,4 +85,4 @@ So this version checks the landmarks that stay visible no matter how you cross y
 
 ## License
 
-MIT. But I would appreciate a coffee for my engineering studies cuz ik I'm not gonna finding an internship. 🥀
+MIT. But I would appreciate a coffee for my engineering studies
